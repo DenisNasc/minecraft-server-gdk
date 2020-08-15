@@ -1,0 +1,238 @@
+[00:26:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[00:26:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:26:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:26:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:26:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:26:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:26:51] [main/INFO]: Reloading ResourceManager: Default
+[00:26:52] [Worker-Main-14/INFO]: Loaded 7 recipes
+[00:26:52] [Worker-Main-14/INFO]: Loaded 927 advancements
+[00:26:54] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[00:26:54] [Server thread/INFO]: Loading properties
+[00:26:54] [Server thread/INFO]: Default game type: SURVIVAL
+[00:26:54] [Server thread/INFO]: Generating keypair
+[00:26:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:26:54] [Server thread/INFO]: Using default channel type
+[00:26:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:26:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:26:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:26:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:26:54] [Server thread/INFO]: Preparing level "Galera_da_Kenner_1"
+[00:26:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:26:56] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:56] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:56] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:56] [Server thread/INFO]: Preparing spawn area: 0%
+[00:26:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[00:27:01] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[00:27:01] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[00:27:01] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[00:27:01] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[00:27:01] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[00:27:01] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[00:27:01] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[00:27:01] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[00:27:01] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[00:27:01] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[00:27:02] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[00:27:02] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[00:27:03] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[00:27:03] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[00:27:04] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[00:27:04] [Worker-Main-13/INFO]: Preparing spawn area: 85%
+[00:27:05] [Worker-Main-8/INFO]: Preparing spawn area: 89%
+[00:27:05] [Server thread/INFO]: Preparing spawn area: 95%
+[00:27:05] [Server thread/INFO]: Time elapsed: 11157 ms
+[00:27:05] [Server thread/INFO]: Done (11.272s)! For help, type "help"
+[00:28:22] [Server thread/INFO]: Deninis326[/127.0.0.1:56825] logged in with entity id 195 at (-198.5, 71.0, -78.5)
+[00:28:22] [Server thread/INFO]: Deninis326 joined the game
+[00:33:00] [Server thread/INFO]: Deninis326 lost connection: Disconnected
+[00:33:00] [Server thread/INFO]: Deninis326 left the game
+[21:39:50] [Server thread/INFO]: Deninis326[/127.0.0.1:57614] logged in with entity id 1364 at (-232.64046965819028, 72.0, 34.249843355187835)
+[21:39:50] [Server thread/INFO]: Deninis326 joined the game
+[21:40:12] [Server thread/INFO]: knz200[/0:0:0:0:0:0:0:1:57659] logged in with entity id 1461 at (-215.5, 70.0, -77.5)
+[21:40:12] [Server thread/INFO]: knz200 joined the game
+[21:40:20] [Server thread/INFO]: anthonypablo197[/0:0:0:0:0:0:0:1:57670] logged in with entity id 1508 at (-217.5, 66.0, -73.5)
+[21:40:20] [Server thread/INFO]: anthonypablo197 joined the game
+[21:41:02] [Server thread/INFO]: Deninis326 was blown up by Creeper
+[21:41:45] [Server thread/INFO]: knz200 has made the advancement [Stone Age]
+[21:42:38] [Server thread/INFO]: knz200 has made the advancement [Getting an Upgrade]
+[21:44:03] [Server thread/INFO]: anthonypablo197 has made the advancement [Stone Age]
+[21:44:36] [Server thread/INFO]: anthonypablo197 has made the advancement [Getting an Upgrade]
+[21:50:16] [Server thread/INFO]: Deninis326 drowned
+[21:51:18] [Server thread/INFO]: Deninis326 has made the advancement [Stone Age]
+[21:51:44] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/5615, l='ServerLevel[Galera_da_Kenner_1]', x=-189.75, y=51.93, z=-58.68]
+[21:52:37] [Server thread/INFO]: knz200 burned to death
+[21:52:37] [Server thread/INFO]: Deninis326 has made the advancement [Getting an Upgrade]
+[21:53:34] [Server thread/INFO]: knz200 has made the advancement [Monster Hunter]
+[21:55:11] [Server thread/INFO]: knz200 has made the advancement [Acquire Hardware]
+[21:55:57] [Server thread/INFO]: CaiozeraExtreme[/0:0:0:0:0:0:0:1:58579] logged in with entity id 6343 at (-206.5, 71.0, -82.5)
+[21:55:57] [Server thread/INFO]: CaiozeraExtreme joined the game
+[21:55:57] [Server thread/INFO]: knz200 has made the advancement [Isn't It Iron Pick]
+[21:56:12] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Acquire Hardware]
+[21:57:58] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Stone Age]
+[21:57:58] [Server thread/INFO]: anthonypablo197 has made the advancement [Acquire Hardware]
+[21:58:30] [Server thread/INFO]: anthonypablo197 has made the advancement [Isn't It Iron Pick]
+[21:58:43] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Getting an Upgrade]
+[22:00:31] [Server thread/INFO]: Deninis326 has made the advancement [Acquire Hardware]
+[22:00:37] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Monster Hunter]
+[22:00:51] [Server thread/INFO]: Deninis326 has made the advancement [Isn't It Iron Pick]
+[22:00:59] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-255, y=49, z=-68} fu{x=-255, y=48, z=-68}
+[22:03:03] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/7752, l='ServerLevel[Galera_da_Kenner_1]', x=-259.65, y=62.35, z=-56.90]
+[22:03:03] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/7752, l='ServerLevel[Galera_da_Kenner_1]', x=-259.65, y=62.35, z=-56.90]
+[22:03:03] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/7749, l='ServerLevel[Galera_da_Kenner_1]', x=-143.69, y=45.00, z=-56.52]
+[22:06:21] [Server thread/INFO]: Deninis326 has made the advancement [Monster Hunter]
+[22:07:57] [Server thread/INFO]: anthonypablo197 has made the advancement [Monster Hunter]
+[22:10:03] [Server thread/INFO]: knz200 was killed by Witch using magic
+[22:10:15] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-180, y=72, z=-95} fu{x=-180, y=70, z=-97}
+[22:10:15] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-180, y=72, z=-95} fu{x=-180, y=70, z=-97}
+[22:10:17] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-178, y=73, z=-103} fu{x=-178, y=71, z=-103}
+[22:10:17] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-178, y=73, z=-103} fu{x=-178, y=71, z=-103}
+[22:10:17] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-178, y=73, z=-104} fu{x=-177, y=71, z=-104}
+[22:10:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-175, y=73, z=-105} fu{x=-174, y=71, z=-106}
+[22:10:24] [Server thread/INFO]: Deninis326 has made the advancement [Suit Up]
+[22:14:59] [Server thread/WARN]: anthonypablo197 moved wrongly!
+[22:17:48] [Server thread/INFO]: knz200 was shot by Skeleton
+[22:17:52] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/11267, l='ServerLevel[Galera_da_Kenner_1]', x=-109.38, y=10.21, z=-15.75]
+[22:18:33] [Server thread/INFO]: knz200 lost connection: Disconnected
+[22:18:33] [Server thread/INFO]: knz200 left the game
+[22:20:09] [Server thread/INFO]: anthonypablo197 has made the advancement [Suit Up]
+[22:21:26] [Server thread/INFO]: Villager bdp['Villager'/351, l='ServerLevel[Galera_da_Kenner_1]', x=-217.15, y=67.00, z=101.71] died, message: 'Villager was slain by Zombie'
+[22:27:39] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Suit Up]
+[22:29:53] [Server thread/INFO]: CaiozeraExtreme has made the advancement [A Seedy Place]
+[22:35:10] [Server thread/INFO]: anthonypablo197 has made the advancement [A Seedy Place]
+[22:36:25] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-411, y=64, z=243} fu{x=-411, y=62, z=243}
+[22:36:25] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-411, y=64, z=243} fu{x=-411, y=62, z=243}
+[22:36:25] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-412, y=64, z=243} fu{x=-413, y=62, z=243}
+[22:36:25] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-412, y=64, z=243} fu{x=-413, y=62, z=243}
+[22:36:25] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-413, y=64, z=243} fu{x=-414, y=62, z=243}
+[22:38:28] [Server thread/INFO]: Deninis326 has made the advancement [Sweet Dreams]
+[22:39:51] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Sweet Dreams]
+[22:40:01] [Server thread/INFO]: anthonypablo197 has made the advancement [Sweet Dreams]
+[22:46:03] [Server thread/WARN]: Boat (vehicle of anthonypablo197) moved wrongly! 0.45314305069678085
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.1067357745680866,0.0,-10.138326378620889
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.1798289846614765,0.0,-10.531254538032783
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.252696814650868,0.0,-10.924257596345342
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.3253580283673116,0.0,-11.317328741669598
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.397829513258287,0.0,-11.710461843305552
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.470130242210864,0.0,-12.103650705620623
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.542273516172564,0.0,-12.49689043054832
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.614275080646223,0.0,-12.890175931826207
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.6861453319336306,0.0,-13.283503313546305
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.7578974013565443,0.0,-13.676868387663376
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.829539332919495,0.0,-14.070268059214413
+[22:52:08] [Server thread/WARN]: CaiozeraExtreme moved too quickly! -1.9916938204418102,1.0,-9.783490181879671
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.9010821404111056,0.0,-14.46369886845514
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.9725319615904837,0.0,-14.857158379618738
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 3.043898095091066,0.0,-15.250643722512166
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 3.115188909682722,0.0,-15.644152313961854
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 3.18641193725815,0.0,-16.037681829111648
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 3.2575701814045246,0.0,-16.43123085359383
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 3.328670120466299,0.0,-16.82479743647474
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 3.399717584953322,0.0,-17.218379821914084
+[22:52:08] [Server thread/WARN]: Boat (vehicle of Deninis326) moved too quickly! 2.104434318198699,0.0,-10.139070507138115
+[22:52:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[22:58:16] [Server thread/INFO]: <Deninis326> -600 -987
+[23:05:31] [Server thread/INFO]: <anthonypablo197> zzzzzzzzzzzz
+[23:07:36] [Server thread/INFO]: anthonypablo197 drowned
+[23:09:26] [Server thread/INFO]: <Deninis326> -590 -1110
+[23:14:29] [Server thread/INFO]: <Deninis326> templo do oceano: X:-600 Z:-300
+[23:14:52] [Server thread/INFO]: <anthonypablo197> registra minha bingola
+[23:23:13] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Ice Bucket Challenge]
+[23:26:23] [Server thread/INFO]: <anthonypablo197> -1336 -1344
+[23:28:13] [Server thread/INFO]: <CaiozeraExtreme> dorme galera
+[23:29:53] [Server thread/INFO]: Deninis326 has made the advancement [A Seedy Place]
+[23:34:13] [Server thread/INFO]: anthonypablo197 lost connection: Disconnected
+[23:34:13] [Server thread/INFO]: anthonypablo197 left the game
+[23:34:31] [Server thread/INFO]: anthonypablo197[/0:0:0:0:0:0:0:1:63621] logged in with entity id 42320 at (-583.8316105989305, 63.0, -1110.2135494434622)
+[23:34:31] [Server thread/INFO]: anthonypablo197 joined the game
+[23:39:14] [Server thread/INFO]: <anthonypablo197> -500 - 1300
+[23:54:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-518, y=69, z=-1164} fu{x=-520, y=67, z=-1162}
+[23:54:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-518, y=69, z=-1164} fu{x=-520, y=67, z=-1162}
+[23:54:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-518, y=69, z=-1164} fu{x=-520, y=67, z=-1162}
+[23:57:21] [Server thread/WARN]: Boat (vehicle of anthonypablo197) moved wrongly! 0.2703451803010921
+[23:57:21] [Server thread/WARN]: Boat (vehicle of anthonypablo197) moved wrongly! 0.3692472921591161
+[23:57:21] [Server thread/WARN]: Boat (vehicle of anthonypablo197) moved wrongly! 0.43993338183781816
+[23:57:21] [Server thread/WARN]: Boat (vehicle of anthonypablo197) moved wrongly! 0.49921600154516454
+[00:18:35] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-676, y=76, z=-1101} fu{x=-676, y=77, z=-1101}
+[00:21:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-277, y=63, z=-1312} fu{x=-277, y=62, z=-1311}
+[00:21:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-278, y=63, z=-1310} fu{x=-277, y=62, z=-1310}
+[00:22:04] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-358, y=65, z=-1246} fu{x=-359, y=63, z=-1245}
+[00:22:04] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-358, y=65, z=-1246} fu{x=-359, y=63, z=-1245}
+[00:22:04] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-357, y=65, z=-1248} fu{x=-359, y=63, z=-1245}
+[00:22:04] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-359, y=65, z=-1251} fu{x=-357, y=63, z=-1250}
+[00:22:05] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-359, y=65, z=-1252} fu{x=-360, y=63, z=-1252}
+[00:22:05] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-359, y=65, z=-1252} fu{x=-360, y=63, z=-1252}
+[00:22:05] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-359, y=65, z=-1252} fu{x=-360, y=63, z=-1252}
+[00:22:05] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-360, y=64, z=-1253} fu{x=-360, y=63, z=-1252}
+[00:22:06] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-362, y=65, z=-1256} fu{x=-361, y=63, z=-1255}
+[00:22:06] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-362, y=65, z=-1256} fu{x=-361, y=63, z=-1255}
+[00:22:06] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-363, y=65, z=-1260} fu{x=-362, y=63, z=-1259}
+[00:22:06] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-363, y=65, z=-1260} fu{x=-362, y=63, z=-1259}
+[00:22:07] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-365, y=65, z=-1264} fu{x=-365, y=63, z=-1263}
+[00:22:07] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-365, y=65, z=-1264} fu{x=-365, y=63, z=-1263}
+[00:22:07] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-366, y=64, z=-1263} fu{x=-367, y=63, z=-1264}
+[00:22:07] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-366, y=64, z=-1263} fu{x=-367, y=63, z=-1264}
+[00:22:08] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-370, y=65, z=-1261} fu{x=-370, y=63, z=-1260}
+[00:22:08] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-370, y=65, z=-1261} fu{x=-370, y=63, z=-1260}
+[00:22:08] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-370, y=65, z=-1261} fu{x=-370, y=63, z=-1260}
+[00:22:08] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-370, y=65, z=-1261} fu{x=-370, y=63, z=-1260}
+[00:22:09] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-375, y=65, z=-1259} fu{x=-375, y=63, z=-1260}
+[00:22:12] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-381, y=65, z=-1272} fu{x=-381, y=63, z=-1272}
+[00:22:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-361, y=65, z=-1249} fu{x=-361, y=63, z=-1249}
+[00:22:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-361, y=65, z=-1249} fu{x=-361, y=63, z=-1249}
+[00:22:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-361, y=65, z=-1249} fu{x=-361, y=63, z=-1249}
+[00:22:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-361, y=65, z=-1248} fu{x=-361, y=63, z=-1249}
+[00:22:42] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-385, y=65, z=-1217} fu{x=-384, y=63, z=-1216}
+[00:22:44] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-384, y=65, z=-1205} fu{x=-385, y=63, z=-1204}
+[00:23:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-570, y=63, z=-1137} fu{x=-570, y=63, z=-1138}
+[00:26:52] [Server thread/INFO]: anthonypablo197 has made the advancement [Best Friends Forever]
+[00:27:13] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Isn't It Iron Pick]
+[00:32:16] [Server thread/WARN]: Fetching packet for removed entity bbg['Cobblestone'/53807, l='ServerLevel[Galera_da_Kenner_1]', x=-492.13, y=29.31, z=-1111.13]
+[00:40:18] [Server thread/WARN]: Fetching packet for removed entity bbg['Diorite'/55360, l='ServerLevel[Galera_da_Kenner_1]', x=-510.88, y=13.00, z=-1043.99]
+[00:42:36] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Hot Stuff]
+[00:44:40] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Diamonds!]
+[00:47:07] [Server thread/INFO]: Deninis326 has made the advancement [Diamonds!]
+[00:55:30] [Server thread/INFO]: Deninis326 has made the advancement [Ice Bucket Challenge]
+[01:02:46] [Server thread/INFO]: Deninis326 has made the advancement [Who is Cutting Onions?]
+[01:03:29] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Who is Cutting Onions?]
+[01:04:47] [Server thread/WARN]: Fetching packet for removed entity bbg['Dirt'/61491, l='ServerLevel[Galera_da_Kenner_1]', x=-665.58, y=61.00, z=-1119.77]
+[01:04:55] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Tactical Fishing]
+[01:05:00] [Server thread/WARN]: Fetching packet for removed entity bbg['Dirt'/61534, l='ServerLevel[Galera_da_Kenner_1]', x=-665.40, y=61.25, z=-1120.68]
+[01:09:58] [Server thread/INFO]: Deninis326 has made the advancement [We Need to Go Deeper]
+[01:12:17] [Server thread/INFO]: CaiozeraExtreme has made the advancement [We Need to Go Deeper]
+[01:15:15] [Server thread/INFO]: CaiozeraExtreme fell from a high place
+[01:25:42] [Server thread/INFO]: <anthonypablo197> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[01:35:45] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Ol' Betsy]
+[01:43:51] [Server thread/INFO]: CaiozeraExtreme lost connection: Disconnected
+[01:43:51] [Server thread/INFO]: CaiozeraExtreme left the game
+[01:47:48] [Server thread/INFO]: CaiozeraExtreme[/0:0:0:0:0:0:0:1:53433] logged in with entity id 69062 at (-561.0935036209728, 94.0, -1072.454325589343)
+[01:47:48] [Server thread/INFO]: CaiozeraExtreme joined the game
+[01:55:22] [Server thread/INFO]: <CaiozeraExtreme> pisando no denis
+[01:55:34] [Server thread/INFO]: <CaiozeraExtreme> pisei na merda
+[01:55:38] [Server thread/INFO]: <CaiozeraExtreme> antes de dormir
+[02:10:10] [Server thread/INFO]: CaiozeraExtreme has made the advancement [Take Aim]
+[02:10:53] [Server thread/INFO]: CaiozeraExtreme lost connection: Disconnected
+[02:10:53] [Server thread/INFO]: CaiozeraExtreme left the game
+[02:40:08] [Server thread/WARN]: anthonypablo197 moved wrongly!
+[02:42:38] [Server thread/INFO]: anthonypablo197 lost connection: Disconnected
+[02:42:38] [Server thread/INFO]: anthonypablo197 left the game
+[02:52:33] [Server thread/INFO]: Villager bdp['Villager'/75885, l='ServerLevel[Galera_da_Kenner_1]', x=-659.15, y=79.00, z=-1084.15] died, message: 'Villager was shot by Pillager'
+[02:56:50] [Server thread/INFO]: <Deninis326> portal do nether: X: -82 Y:79 Z -122
+[03:16:24] [Server thread/INFO]: Deninis326 lost connection: Disconnected
+[03:16:24] [Server thread/INFO]: Deninis326 left the game
+[03:16:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:16:46] [Server thread/INFO]: exit<--[HERE]
+[03:16:53] [Server thread/INFO]: Stopping the server
+[03:16:53] [Server thread/INFO]: Stopping server
+[03:16:53] [Server thread/INFO]: Saving players
+[03:16:53] [Server thread/INFO]: Saving worlds
+[03:16:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Galera_da_Kenner_1]'/minecraft:overworld
+[03:16:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Galera_da_Kenner_1): All chunks are saved
+[03:16:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Galera_da_Kenner_1]'/minecraft:the_nether
+[03:16:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:16:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Galera_da_Kenner_1]'/minecraft:the_end
+[03:16:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:16:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Galera_da_Kenner_1): All chunks are saved
+[03:16:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:16:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
